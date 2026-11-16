@@ -1,0 +1,12 @@
+# Binários compilados
+*.class
+TelasPlayer/bin/
+
+# Arquivos de configuração da IDE (Eclipse)
+.classpath
+.project
+.settings/
+
+# Documentos e arquivos auxiliares fora do escopo do código
+*.pptx
+sequencediagramorg.txt
